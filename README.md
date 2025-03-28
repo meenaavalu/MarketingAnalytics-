@@ -1,5 +1,7 @@
 # MarketingAnalytics
 
+<img src="https://github.com/meenaavalu/MarketingAnalytics-/blob/main/Diagram.jpg" width="500">
+
 ## 🔍 What I Worked On:
 Using real-world marketing and customer sentiment data, I built an end-to-end data pipeline that analyzes and visualizes customer engagement, sentiment trends, and campaign performance. The project integrates multiple technologies, from AWS S3 to Snowflake, Python, and Power BI, to deliver actionable insights.
 
